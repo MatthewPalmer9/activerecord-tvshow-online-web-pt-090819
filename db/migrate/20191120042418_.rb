@@ -1,4 +1,4 @@
-class  < ActiveRecord::Migration[5.2]
+class CreateShows < ActiveRecord::Migration[5.2]
   def change
   end
 end
